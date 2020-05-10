@@ -1,9 +1,12 @@
 # onpremdistributed
 
 Before you run this, you must prepare your machines
-Host1 => Main Install
-Host2 => filler
-Host3 => appdata-processor
+
+- Host1 => Main Install
+
+- Host2 => filler
+
+- Host3 => appdata-processor
 
 
 As root 
